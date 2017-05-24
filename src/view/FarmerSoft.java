@@ -1,3 +1,4 @@
+// salam first changes by louriz
 package view;
 
 import java.awt.EventQueue;
@@ -24,11 +25,7 @@ import java.awt.event.FocusListener;
 import javax.swing.JFrame;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-//trhrtezzzt
-// Salam Alaikum I am new in Github
-//Ahmed Amirul
-//yessssssssssssss
-// salam alaikum
+
 public class FarmerSoft {
 
 	private JFrame frame;
